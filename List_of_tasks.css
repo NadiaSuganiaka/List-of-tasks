@@ -1,0 +1,27 @@
+body {
+    background-color: #c5c4ff;
+}
+
+input {
+    height: 30px;
+    width: 180px;
+    border: 2px solid #4a48ea;
+    border-radius: 5px;
+    font-style: italic;
+}
+
+button {
+    height: 30px;
+    width: 50px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #6f6ced;
+    color: white;
+}
+
+#newTask {
+    background-color: #4a48ea;
+}
